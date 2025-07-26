@@ -156,5 +156,14 @@ And then I just kind of sat in my chair in a daze, pretty exhausted after watchi
 
 ---
 
-[`backend-typescript-architect`](./agents/backend-typescript-architect.md) by [TheCookingSenpai](https://github.com/tcsenpai)
-Description:
+[`backend-typescript-architect`](./agents/backend-typescript-architect.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
+A senior backend TypeScript architect specializing in Bun runtime, API design, database optimization, and scalable server architecture. Delivers production-ready code with comprehensive error handling, TypeScript typing, and clean architecture patterns.
+
+[`python-backend-engineer`](./agents/python-backend-engineer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
+Expert Python backend developer proficient in modern tools like uv, specializing in FastAPI, Django, and async programming. Creates scalable backend systems with proper testing, type hints, and follows SOLID principles for maintainable architectures.
+
+[`senior-code-reviewer`](./agents/senior-code-reviewer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
+Fullstack code reviewer with 15+ years of experience analyzing code for security vulnerabilities, performance bottlenecks, and architectural decisions. Provides comprehensive reviews with actionable feedback prioritized by severity.
+
+[`ui-engineer`](./agents/ui-engineer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
+Frontend specialist in modern JavaScript/TypeScript frameworks, responsive design, and component-driven architecture. Creates clean, accessible, and performant UI components that integrate seamlessly with any backend system.
