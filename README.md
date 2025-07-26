@@ -1,6 +1,8 @@
-# awesome-claude-code-agents
+# Awesome Claude Code Agents
 
 A curated list of agent files and resources developed with Claude Code's Sub-Agent functionality.
+
+---
 
 ⁉️ Question: What are _Sub Agents_?
 
@@ -146,15 +148,21 @@ So then I got down to business and did a bit of stretching and typed:
 
 After that, I took a nap, had a sandwich, took my cat for a walk, and about an hour later it was finishing up the documentation for my server, [`diy-tools-mcp`](https://github.com/hesreallyhim/diy-tools-mcp) which I tested using the Inspector, and it works like a charm.
 
-And then I just kind of sat in my chair in a daze, pretty exhausted after watching Claude do all that hard work, and then I got up and decided to make this repo.
+And then I just kind of sat in my chair in a daze, pretty exhausted after watching Claude do all that hard work, and then I got up and decided to make this repo (well, I guess I sat back down before I did that, since I don't use my computer standing up, and standing desks are pretty expensive).
 
 ⁉️ Question: Isn't this just a shameless attempt to get attention after the tremendous success of the [`awesome-claude-code`](https://github.com/hesreallyhim/awesome-claude-code/) repo and all of the fame and money that it's brought you?
 
 🧠 Answer: Hehe, I'm sorry WHAT DID YOU SAY?! This interview is over.
 
+---
+
 **Thanks to [TheCookingSenpai](https://github.com/tcsenpai) for contributing the initial set of resources!**
 
 ---
+
+## Awesome Claude Code Agents
+
+### Agents
 
 [`backend-typescript-architect`](./agents/backend-typescript-architect.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
 A senior backend TypeScript architect specializing in Bun runtime, API design, database optimization, and scalable server architecture. Delivers production-ready code with comprehensive error handling, TypeScript typing, and clean architecture patterns.
@@ -167,3 +175,24 @@ Fullstack code reviewer with 15+ years of experience analyzing code for security
 
 [`ui-engineer`](./agents/ui-engineer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
 Frontend specialist in modern JavaScript/TypeScript frameworks, responsive design, and component-driven architecture. Creates clean, accessible, and performant UI components that integrate seamlessly with any backend system.
+
+### Agent Frameworks
+
+[`Code By Agents`](https://github.com/baryhuang/code-by-agents) by [Bary Huange](https://github.com/baryhuang)  
+An orchestration framework for designing and coordinating Claude Code agents, with a very clean interface, and sophisticated orchestration logic. (I think this might possibly involve a hand-rolled agent framework, given the committerdates, so that's pretty amazing.)
+
+[`awesome-claude-agents`](https://github.com/rahulvrane/awesome-claude-agents) by [Rahul Rane](https://github.com/rahulvrane)  
+A _slightly_ similar repository 😉 to the present one with a growing list of awesome agents for Claude Code.
+
+[`Claude Code Subagents Collection`](https://github.com/wshobson/agents?tab=re) by [Seth Hobson](https://github.com/wshobson).
+A pretty impressive resource with _dozens_ of awesome-looking agents that I haven't even had time to explore yet, but clearly this gentleman has put a lot of work into this feature that's been out for one freaking day at the time of writing!
+
+## Contributing
+
+This repo is just getting started (but, you know, like, I _called it_ now and everything), but please feel free to start sending in your submissions! And please be sure to share (a) the prompt you used (if you had Claude's help); (b) the actual agent file; (c) something that you have built or done with the agent.
+
+And, finally, if you're one of the people mentioned above, and you want to bear the heroic burden of maintaining an awesome-list, just reach out to me (a.k.a. Him) and I'm sure we can find a suitable venue for a code golf competition or something to decide who is truly the awesome. 😜 Probably, by the time I finish writing this, there will be four to ten more repos like it, and I'm happy to just bask in the awesomeness of my own list.
+
+Happy coding! (...wait, no one does that anymore...)
+
+Have a great day!
