@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hesreallyhim-awesome-claude-code-agents-badge.png)](https://mseep.ai/app/hesreallyhim-awesome-claude-code-agents)
+
 # Awesome Claude Code Agents
 
 A curated list of agent files and resources developed with Claude Code's Sub-Agent functionality.
