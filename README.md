@@ -170,13 +170,13 @@ A senior backend TypeScript architect specializing in Bun runtime, API design, d
 [`python-backend-engineer`](./agents/python-backend-engineer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
 Expert Python backend developer proficient in modern tools like uv, specializing in FastAPI, Django, and async programming. Creates scalable backend systems with proper testing, type hints, and follows SOLID principles for maintainable architectures.
 
-[`react-coder`](./agents/react-coder.md) by [toyamarinyon](https://github.com/toyamarinyon)  
+[`react-coder`](https://github.com/giselles-ai/giselle/blob/main/.claude/agents/react-coder.md) by [toyamarinyon](https://github.com/toyamarinyon)  
 Expert React developer specializing in creating simple, maintainable components following the 'less is more' philosophy. Focuses on React 19 patterns, minimal useEffect usage, and components that feel obvious and inevitable.
 
 [`senior-code-reviewer`](./agents/senior-code-reviewer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
 Fullstack code reviewer with 15+ years of experience analyzing code for security vulnerabilities, performance bottlenecks, and architectural decisions. Provides comprehensive reviews with actionable feedback prioritized by severity.
 
-[`ts-coder`](./agents/ts-coder.md) by [toyamarinyon](https://github.com/toyamarinyon)  
+[`ts-coder`](https://github.com/giselles-ai/giselle/blob/main/.claude/agents/ts-coder.md) by [toyamarinyon](https://github.com/toyamarinyon)  
 TypeScript expert focused on writing "inevitable code" - code where every design choice feels like the only sensible option. Emphasizes cognitive effortlessness, simplicity over cleverness, and making the right solution feel obvious. [Read the story behind this agent](https://giselles.ai/blog/claude-code-subagents-inevitable-code).
 
 [`ui-engineer`](./agents/ui-engineer.md) by [TheCookingSenpai](https://github.com/tcsenpai)  
